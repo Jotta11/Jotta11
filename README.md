@@ -1,6 +1,6 @@
 ### Bem vindo(a). Me chamo João Gabriel!
 
- 🔭 Atualmente sou estudante de Front-End
+ 🔭 Desenvolvedor Jr.
 
 <div align="center">
   <a href="https://github.com/Jotta11">
